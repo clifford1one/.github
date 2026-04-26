@@ -19,7 +19,11 @@
 
 </div>
 
+<div align="center">
+
 ![gif del logo animado en p5js](./profile/files/logo-joinDots.gif)
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=clifford1one;santiagoClifford" alt="Typing SVG" />
 
