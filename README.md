@@ -17,16 +17,14 @@
 
 ---
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=clifford1one;santiagoClifford" alt="Typing SVG" />
-
 </div>
 
 ![gif del logo animado en p5js](./profile/files/logo-joinDots.gif)
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=clifford1one;santiagoClifford" alt="Typing SVG" />
+
 <div align="center">
 
-## persona
 
 *Diseñador Industrial, Diseño de Interacción.*
 
