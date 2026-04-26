@@ -34,6 +34,8 @@
 
 Me interesa el códgio, la experiencia de usuario, los mecanismos, los dispositivos phygital, la electrónica y la exploración audiovisual.
 
+<div align="left">
+
 ```js
 let profile = {
   background: ["Diseño Industrial", "Diseño de Interacción"],
@@ -43,6 +45,8 @@ let profile = {
   mode: "always learning"
 };
 ```
+
+</div>
 
 ---
 
